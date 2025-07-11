@@ -1,0 +1,39 @@
+[project]
+name = "myth-assignment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "diffusers[torch]>=0.34.0",
+    "matplotlib>=3.9.0",
+    "numpy>=1.26.4",
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+    "tqdm>=4.66.4",
+    "transformers>=4.53.0",
+    "scikit-learn>=1.5.0",
+    "torchmetrics[image]>=1.7.4",
+    "pillow>=11.3.0",
+]
+
+[dependency-groups]
+dev = [
+    "gsutil>=5.35",
+    "ipykernel>=6.29.5",
+    "pip>=25.1.1",
+    "ruff>=0.12.1",
+]
+
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cu128" },
+]
+torchvision = [
+    { index = "pytorch-cu128" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
