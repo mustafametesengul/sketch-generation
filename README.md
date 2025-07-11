@@ -1,5 +1,18 @@
 # MYTH Assignment
 
+This repository contains an implementation of sketch generation using diffusion models, inspired by ChiroDiff. The project demonstrates how to generate realistic sketch drawings for categories like "cat", "bus", and "rabbit" from the QuickDraw dataset using a hybrid approach combining Bidirectional RNNs and Diffusion Models.
+
+## Overview
+
+The main implementation is provided in the Jupyter notebook [technical_assignment.ipynb](technical_assignment.ipynb), which covers:
+- Dataset preparation and visualization
+- Bidirectional RNN architecture for capturing temporal dependencies in drawing sequences
+- Diffusion model training and inference
+- Quantitative evaluation using FID and KID metrics
+- Animation generation showing the drawing process
+
+**Note**: This notebook was originally designed to run on Google Colab but can also be executed locally.
+
 ## Installation
 
 Installing with UV:
