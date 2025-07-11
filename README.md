@@ -18,39 +18,39 @@ pip install .
 
 ### Cat
 
-![cat drawing animation](outputs\cat\cat_drawing_animation.gif)
+![cat drawing animation](outputs/cat/cat_drawing_animation.gif)
 
 ### Bus
 
-![bus drawing animation](outputs\bus\bus_drawing_animation.gif)
+![bus drawing animation](outputs/bus/bus_drawing_animation.gif)
 
 ### Rabbit
 
-![rabbit drawing animation](outputs\rabbit\rabbit_drawing_animation.gif)
+![rabbit drawing animation](outputs/rabbit/rabbit_drawing_animation.gif)
 
 ## Generated images
 
 ### Cat
 
-![cat 1](outputs\cat\cat_1.png)
-![cat 2](outputs\cat\cat_2.png)
-![cat 3](outputs\cat\cat_3.png)
-![cat 4](outputs\cat\cat_4.png)
+![cat 1](outputs/cat/cat_1.png)
+![cat 2](outputs/cat/cat_2.png)
+![cat 3](outputs/cat/cat_3.png)
+![cat 4](outputs/cat/cat_4.png)
 
 ### Bus
 
-![bus 1](outputs\bus\bus_1.png)
-![bus 2](outputs\bus\bus_2.png)
-![bus 3](outputs\bus\bus_3.png)
-![bus 4](outputs\bus\bus_4.png)
+![bus 1](outputs/bus/bus_1.png)
+![bus 2](outputs/bus/bus_2.png)
+![bus 3](outputs/bus/bus_3.png)
+![bus 4](outputs/bus/bus_4.png)
 
 
 ### Rabbit
 
-![rabbit 1](outputs\rabbit\rabbit_1.png)
-![rabbit 2](outputs\rabbit\rabbit_2.png)
-![rabbit 3](outputs\rabbit\rabbit_3.png)
-![rabbit 4](outputs\rabbit\rabbit_4.png)
+![rabbit 1](outputs/rabbit/rabbit_1.png)
+![rabbit 2](outputs/rabbit/rabbit_2.png)
+![rabbit 3](outputs/rabbit/rabbit_3.png)
+![rabbit 4](outputs/rabbit/rabbit_4.png)
 
 
 ## Evaluation
