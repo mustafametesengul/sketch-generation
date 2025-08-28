@@ -1,4 +1,4 @@
-# MYTH Assignment
+# Sketch Generation
 
 This repository contains an implementation of sketch generation using diffusion models, inspired by ChiroDiff. The project demonstrates how to generate realistic sketch drawings for categories like "cat", "bus", and "rabbit" from the QuickDraw dataset using a hybrid approach combining Bidirectional RNNs and Diffusion Models.
 
