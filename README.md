@@ -4,14 +4,14 @@ This repository contains an implementation of sketch generation using diffusion 
 
 ## Overview
 
-The main implementation is provided in the Jupyter notebook [technical_assignment.ipynb](technical_assignment.ipynb), which covers:
+The main implementation is provided in the Jupyter notebook [sketch_generation.ipynb](sketch_generation.ipynb), which covers:
 - Dataset preparation and visualization
 - Bidirectional RNN architecture for capturing temporal dependencies in drawing sequences
 - Diffusion model training and inference
 - Quantitative evaluation using FID and KID metrics
 - Animation generation showing the drawing process
 
-**Note**: This notebook was originally designed to run on Google Colab but can also be executed locally.
+**Note**: This notebook was originally designed to run on Google Colab, but can also be executed locally.
 
 ## Installation
 
